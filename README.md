@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ridhimabrb
 - 👀 I’m interested in music, photography and coding
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me ... don't
 
 <!---
